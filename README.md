@@ -1,2 +1,1 @@
-# Python Distilled
 ![python distilled](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.oreilly.com%2Flibrary%2Fview%2Fpython-distilled%2F9780134173399%2F&psig=AOvVaw3L8ZPNUGafRdHVluQCYxma&ust=1760714342892000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDNzJaCqZADFQAAAAAdAAAAABAE)
